@@ -20,7 +20,8 @@ Results:
 - Probability a season exceeds 300 inches: ~9.6% (about once every 10 years)
 ![Snowfall Over Time](figures/snowfall_over_time.png)
 ![Snowfall Distribution](figures/snowfall_distribution.png)
-![Top 10 Winters](figures/top_10_winters.png)  
+![Top 10 Winters](figures/top_10_winters.png)
+
 Applications:
 This model can be used in real life situations where extreme snowfall matters. In insurance, can help estimate the risk of winters that could be costly and can help insurers decide how much coverage or reinsurance to give. This model also can be useful for city planning because roads, buildings, drainage systems, etc. need to be able to handle heavy snowfall scenarios, even if unlikely. Ski resorts could use this to understand variability in snow seasons. Overall, the goal is to better understand rare but very impactful events, because those are the ones that cause the biggest issues.
 
