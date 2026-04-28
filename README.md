@@ -31,3 +31,4 @@ This model can be used in real life situations where extreme snowfall matters. I
 Notes
 - The analysis assumes conditions are relatively stable over time.
 - Data comes from two nearby stations, so there may be small measurement differences.
+-I completed this project independently, analyzing data using R
